@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm LokeshReddy Salapala</h1>
 <h3 align="center">I’m a DevOps Engineer with an expertise in various AWS Services</h3>
 
-- 📫 How to reach me **salapala.lokeshreddy@gmail.om**
+- 📫 How to reach me **salapala.lokeshreddy@gmail.com**
 
 - 📄 During my free time I am Interested in Listening to Podcasts & music, Watching Movies,Playing Cricket & Badminton)
 
